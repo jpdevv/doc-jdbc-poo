@@ -112,7 +112,7 @@ CREATE TABLE conta (
 #### **4.2 Passos para Execução**
 1. Clone este repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/jpdevv/doc-jdbc-poo.git
 ```
 2. Abra o projeto em uma IDE como IntelliJ, Eclipse ou VSCode
 3. Configure a conexão com o banco no arquivo `BancoDeDados.java`
