@@ -110,10 +110,14 @@ CREATE TABLE conta (
 - Maven (caso esteja usando gerenciamento de dependências)
 
 #### **4.2 Passos para Execução**
-1. Abra o projeto em uma IDE como IntelliJ, Eclipse ou VSCode
-2. Configure a conexão com o banco no arquivo `BancoDeDados.java`
-3. Crie a tabela executando o SQL acima no PostgreSQL
-4. Execute a classe `App.java`
+1. Clone este repositório
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+2. Abra o projeto em uma IDE como IntelliJ, Eclipse ou VSCode
+3. Configure a conexão com o banco no arquivo `BancoDeDados.java`
+4. Crie a tabela executando o SQL acima no PostgreSQL
+5. Execute a classe `App.java`
 
 ---
 
