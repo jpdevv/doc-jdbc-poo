@@ -109,6 +109,7 @@ CREATE TABLE conta (
 - PostgreSQL instalado e configurado
 - Maven (caso esteja usando gerenciamento de dependências)
 
+## **FAÇA OS PASSOS ABAIXO SE ENTENDER GIT E GITHUB**
 #### **4.2 Passos para Execução**
 1. Clone este repositório
 ```bash
